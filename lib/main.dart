@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:native_splash/screens/home/home_page.dart';
+
+import 'screens/home/home_page.dart';
 
 void main() async {
 

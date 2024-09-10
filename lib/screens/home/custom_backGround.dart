@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:native_splash/screens/home/widgets/tab_widget.dart';
 import 'package:provider/provider.dart';
+
 import '../../providers/main_provider.dart';
+import 'widgets/tab_widget.dart';
 
 class CustomBackground extends StatelessWidget {
   const CustomBackground({super.key, required this.childWidget});

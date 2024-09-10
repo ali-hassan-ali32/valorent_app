@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:native_splash/providers/main_provider.dart';
-import 'package:native_splash/screens/home/Tabs/Agents/agent_list_builder.dart';
-import 'package:native_splash/screens/home/Tabs/Maps/map_list_builder.dart';
-import 'package:native_splash/screens/home/Tabs/Weapeons/weaponListBuilder.dart';
 import 'package:provider/provider.dart';
+import 'package:valorent_route/providers/main_provider.dart';
+import 'package:valorent_route/screens/home/Tabs/Agents/agent_list_builder.dart';
+import 'package:valorent_route/screens/home/Tabs/Maps/map_list_builder.dart';
 
+import '../Tabs/Weapeons/weaponListBuilder.dart';
 
 class CurrentTap extends StatelessWidget {
   const CurrentTap({

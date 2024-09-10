@@ -1,6 +1,7 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:native_splash/screens/agnet_details/agent_details.dart';
+import 'package:valorent_route/screens/agnet_details/agent_details.dart';
+
 import '../../../../../models/agent_model.dart';
 import '../../../home_page.dart';
 

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:native_splash/screens/home/widgets/error_message.dart';
+import 'package:valorent_route/screens/home/widgets/error_message.dart';
+
 import '../../../../models/map_model.dart';
 import '../../../../services/map_servises.dart';
 import 'map_card.dart';

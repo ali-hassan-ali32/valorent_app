@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:native_splash/screens/home/Tabs/Weapeons/weapon_card.dart';
-import 'package:native_splash/screens/home/widgets/error_message.dart';
+import 'package:valorent_route/screens/home/widgets/error_message.dart';
 
 import '../../../../models/weapon_model.dart';
 import '../../../../services/weapons_api.dart';
+import 'weapon_card.dart';
 
 class WeaponListBuilder extends StatefulWidget {
   const WeaponListBuilder({

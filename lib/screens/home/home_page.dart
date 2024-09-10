@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:native_splash/screens/home/widgets/current_tap.dart';
-
 
 import 'custom_backGround.dart';
+import 'widgets/current_tap.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});

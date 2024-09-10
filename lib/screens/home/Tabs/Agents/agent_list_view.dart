@@ -1,6 +1,6 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:native_splash/screens/home/widgets/agent_image_not_found.dart';
+import 'package:valorent_route/screens/home/widgets/agent_image_not_found.dart';
 
 import '../../../../models/agent_model.dart';
 import 'Widgets/agent_card.dart';
